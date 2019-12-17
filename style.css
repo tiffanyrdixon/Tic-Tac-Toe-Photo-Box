@@ -1,0 +1,17 @@
+p {
+
+/* Content - width and height */
+width: 200px;
+/* Border */
+border: 2px solid blue;
+
+/* Padding */
+padding: 10px;
+/* By addding one element for padding it is implemented on all sides. By specifying top, bottom, left or right the padding will be applied to those designated areas only */
+/* Margin */
+/* margin:100px; */
+margin: 0 auto;
+margin: 50 20px;
+
+}
+
